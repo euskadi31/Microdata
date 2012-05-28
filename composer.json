@@ -1,0 +1,17 @@
+{
+    "name": "euskadi31/Microdata",
+    "type": "library",
+    "description": "Extract microdata from HTML using PHP 5.3+",
+    "keywords": ["microdata","schema"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Axel Etcheverry",
+            "email": "axel@etcheverry.biz",
+            "homepage": "http://www.axel-etcheverry.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
