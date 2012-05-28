@@ -22,7 +22,7 @@ $data = $r->read();
 
 print_r($data);
 ```
-REQUIREMENTS
+Requirements
 ============
 
 PHP 5.3 or higher
